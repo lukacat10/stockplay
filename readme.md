@@ -21,4 +21,4 @@ When you are done, which you've needed some time to do. Contact me through the E
 
 ## License
 
-This project is licensed under the MIT license, see [license.md](https://github.com/danielntech/stockplay/license.md) for more.
+This project is licensed under the MIT license, see [license.md](https://github.com/danielntech/stockplay/blob/master/readme.md) for more.
