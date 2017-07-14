@@ -9,8 +9,8 @@ StockPlay is a non-finished Minecraft server management panel interface. It's ba
 
 ## Authors
 
-* **Daniel Naaman** - *Project Designer and Developer* - [danielntech](https://github.com/danielntech)
+* **Daniel Naaman** [(danielntech)](https://github.com/danielntech) - *Project Designer and Developer.*
 
 ## License
 
-This project is licensed under the MIT license, see [//license.md](https://github.com/danielntech/stockplay/blob/master/license.md) for more.
+This project is licensed under the MIT license, see [license.md](https://github.com/danielntech/stockplay/blob/master/license.md) for more.
